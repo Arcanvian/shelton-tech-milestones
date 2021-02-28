@@ -1,0 +1,28 @@
+html{text-align:center}
+
+html{
+    background-color:black
+}
+
+#id{
+    font-family:fantasy;
+}
+
+.class{
+    font-family:serif;
+}
+
+h2{
+    color:darkturquoise;
+}
+
+h3{
+    color:springgreen;
+}
+h3{font-family: Arial, Helvetica, sans-serif;}
+title{
+    color:azure;
+}
+p{color:azure}
+h1{color:azure}
+p{font-size:large}
